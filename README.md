@@ -1,5 +1,5 @@
 # obj_sequence_to_maya_geometry_cache
-Input obj sequence, dump the corresponding Maya geometry.
+Input obj sequence, dump the corresponding Maya geometry. I am absolutely shocked that—here in 2026—this piece of shit software, Maya, still requires users to implement this feature themselves manually.
 
 Usage:
 ```
